@@ -1,0 +1,12 @@
+﻿# Bỏ qua thư mục chứa dữ liệu lớn
+train_features/
+
+# Bỏ qua cài đặt riêng của Visual Studio
+.vs/
+
+# Bỏ qua log tạm
+log.txt
+
+# Bỏ qua file exe test 
+*.exe
+
