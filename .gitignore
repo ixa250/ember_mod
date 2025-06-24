@@ -10,3 +10,4 @@ log.txt
 # Bỏ qua file exe test 
 *.exe
 
+/malware_samples
