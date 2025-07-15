@@ -1,0 +1,19 @@
+﻿# Bỏ qua thư mục chứa dữ liệu lớn
+train_features/
+benign_real/
+test_samples/
+malware_samples/	
+# Bỏ qua cài đặt riêng của Visual Studio
+.vs/
+
+# Bỏ qua log tạm
+log.txt
+
+# Bỏ qua file exe test 
+*.exe
+
+/malware_samples
+/benign_real.rar
+/log_lief_fail.txt
+/log_combined.txt
+/downloaded_batches.txt
